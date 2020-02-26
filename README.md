@@ -2,6 +2,10 @@
 
 The Library Carpentry module '[Web Scraping for Librarians](http://data-lessons.github.io/library-webscraping/)' is maintained by [Belinda Weaver](https://github.com/weaverbel) and [Thomas Guignard](https://github.com/timtomch).
 
+This workshop extends from and substantially modifies the workshop originally by Thomas Guignard. These extensions were the work of [Joel Nothman](https://github.com/jnothman) at the Sydney Informatics Hub, a Core Research Facility of the University of Sydney.
+
+This was presented at ResBaz Sydney 2017. See the presented version at: https://ctds-usyd.github.io/2017-07-03-resbaz-webscraping/
+
 ## Background
 
 Library Carpentry is a software skills training programme aimed at library and information 
